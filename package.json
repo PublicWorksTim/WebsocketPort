@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "name": "port",
+  "version": "0.0.1",
+  "dependencies": {
+    "uuid": "^8.3.0",
+    "ws": "^8.5.0"
+  }
+}
